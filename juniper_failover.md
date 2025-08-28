@@ -166,7 +166,7 @@ show event-options policy
 
 ---
 Esta implementação oferece:
-- ⚡ **Resposta rápida** a falhas de conectividade
+-  ⚡ **Resposta rápida** a falhas de conectividade
 - 🤖 **Automação completa** sem intervenção manual  
 - 📈 **Alta disponibilidade** com SLA robusto
 - 💰 **Custo-benefício** excelente
